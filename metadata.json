@@ -1,0 +1,5 @@
+{
+  "name": " Photographer AI",
+  "description": "An AI-powered tool that analyzes images to generate detailed style descriptions and prompts for AI image recreation.",
+  "requestFramePermissions": []
+}
